@@ -63,6 +63,11 @@ header h6{
     font-size: 40px;
     color: #ffffff !important;
 }
+
+li .nav--hover:hover{
+  color: rgb(10, 10,7);
+}
+
 .accordion-item {
     background-color: #000000 !important;
     color: white !important;
